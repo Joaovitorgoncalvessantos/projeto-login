@@ -5,7 +5,8 @@
         background-image: linear-gradient(to top,#49a09d,#5f2c82);
     }
     .login{
-        width: 80vw;
+        width: 950px;
+        height: 350px;
     }
     .login .imagem{
         float: left;
@@ -24,6 +25,7 @@
     }
     .login{
         width: 950px;
+        height: 350px;
     }
     .login .imagem{
         float: right;
@@ -31,8 +33,14 @@
         height: 100%;
     }
     .login .formulario{
-        float: right;
+        float: left;
         width: 50% ;
+    }
+    .formulario h1{
+        font-size: 2em;
+    }
+    .formulario p{
+        font-size: 1.2em;
     }
 
 }
